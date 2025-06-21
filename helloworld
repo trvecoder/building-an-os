@@ -1,0 +1,4 @@
+#summary
+Building an operating system from scratch, we focus on using assembly language and BIOS. 
+It covers necessary tools, coding basics, memory addressing, and printing "Hello World" to the screen.
+Understanding x86 architecture and the significance of interrupts in operating systems.
